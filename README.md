@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnudeepJagannath
-- 👀 I’m interested in DSA, Machine Learning and Artificial Intelligence   
-- 🌱 I’m currently learning Data Science 
-- 📫 How to reach me write to me at kjanudeep@gmail.com    
+- 🌱 Currently learning Data Science 
+- 📫 Reach me at kjanudeep@gmail.com    
 - ⚡ Fun fact: I was born with no clothes on
 -     Football/Soccer for life
 
